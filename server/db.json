@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "password": "1234",
+      "createdAt": "11.11.2020, 17:04:58"
+    },
+    {
+      "id": 2,
+      "email": "user2@gmail.com",
+      "password": "4321",
+      "createdAt": "03.05.2018, 02:12:30"
+    },
+    {
+      "email": "rodion03@mail.ru",
+      "password": "123",
+      "createdAt": "20.11.2022, 04:22:22",
+      "id": 3
+    },
+    {
+      "email": "",
+      "password": "",
+      "createdAt": "20.11.2022, 04:33:19",
+      "id": 4
+    },
+    {
+      "email": "",
+      "password": "",
+      "createdAt": "20.11.2022, 04:33:23",
+      "id": 5
+    },
+    {
+      "email": "",
+      "password": "",
+      "createdAt": "20.11.2022, 04:33:29",
+      "id": 6
+    },
+    {
+      "email": "",
+      "password": "",
+      "createdAt": "20.11.2022, 04:34:41",
+      "id": 7
+    },
+    {
+      "email": "",
+      "password": "",
+      "createdAt": "20.11.2022, 04:34:44",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "",
+      "createdAt": "20.11.2022, 04:35:19",
+      "id": 9
+    },
+    {
+      "email": "rodion03@mail.ru",
+      "password": "123",
+      "createdAt": "20.11.2022, 04:36:24",
+      "id": 10
+    },
+    {
+      "email": "123132@gmail.com",
+      "password": "123",
+      "createdAt": "20.11.2022, 04:39:40",
+      "id": 11
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "My day",
+      "body": "Today I...",
+      "createdAt": "2022-11-05T14:36:10.980Z"
+    },
+    {
+      "title": "title",
+      "body": "example",
+      "userId": 2,
+      "createdAt": "09.11.2022, 15:54:27",
+      "id": 2
+    },
+    {
+      "title": "newNote",
+      "body": "jkbbjkjbk",
+      "userId": 1,
+      "createdAt": "09.11.2022, 15:55:14",
+      "id": 3
+    },
+    {
+      "title": "Ghsc",
+      "body": "ascasc",
+      "userId": 1,
+      "createdAt": "13.11.2022, 18:00:53",
+      "id": 4
+    },
+    {
+      "title": "12321",
+      "body": "132131",
+      "userId": 1,
+      "createdAt": "19.11.2022, 13:47:17",
+      "id": 6
+    },
+    {
+      "title": "132132",
+      "body": "132141896841904",
+      "userId": 1,
+      "createdAt": "19.11.2022, 13:49:46",
+      "id": 7
+    },
+    {
+      "title": "13",
+      "body": "3123123",
+      "userId": 1,
+      "createdAt": "19.11.2022, 13:51:27",
+      "id": 8
+    },
+    {
+      "title": "123123",
+      "body": "1231231",
+      "userId": 11,
+      "createdAt": "20.11.2022, 21:23:44",
+      "id": 9
+    }
+  ]
+}
